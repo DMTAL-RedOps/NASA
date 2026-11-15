@@ -4,8 +4,6 @@
 
 Dört kişilik bir ekibin Mars’taki yedi sol boyunca enerji, oksijen, su ve gıda kaynaklarını yönetmesine yardımcı olan etkileşimli bir eğitim simülasyonu. Plan yap, olaylara karar ver, sistemleri çalıştır ve her solun kaynak hesabını gör.
 
-[🇹🇷 Türkçe](#turkce) · [🇬🇧 English](#english)
-
 <p align="center">
   <img src="docs/screenshots/home-desktop.png" alt="MarsBase AI giriş ekranı" width="900">
 </p>
