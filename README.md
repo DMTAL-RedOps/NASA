@@ -8,9 +8,6 @@ Dört kişilik bir ekibin Mars’taki yedi sol boyunca enerji, oksijen, su ve g�
   <img src="docs/screenshots/home-desktop.png" alt="MarsBase AI giriş ekranı" width="900">
 </p>
 
-<a id="turkce"></a>
-## 🇹🇷 Türkçe
-
 ### 🎯 Proje ne yapıyor?
 
 MarsBase AI, oyuncuyu Ares adlı kurgusal bir Mars üssünün görev sorumlusu yapar. Oyuncu her sol için olayları değerlendirir, üssün sistemlerini ayarlar ve sınırlı kaynaklarla ekibin güvenliğini sağlamaya çalışır. Uygulama hem oynanabilir bir simülasyon hem de Mars keşfi hakkında bilgi veren bir eğitim prototipidir.
